@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5pCq7S7g1KHE116zuzQ876oIS74Gkfd8ukxb+jPNVuU=",
+  "Source": "SalesHandler",
+  "BasePath": "_content/SalesHandler",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

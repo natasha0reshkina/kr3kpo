@@ -1,0 +1,15 @@
+/Users/nataliiaoreshkina/Downloads/CommerceForge 14/CommerceForge/bin/Debug/net9.0/CommerceForge
+/Users/nataliiaoreshkina/Downloads/CommerceForge 14/CommerceForge/bin/Debug/net9.0/CommerceForge.deps.json
+/Users/nataliiaoreshkina/Downloads/CommerceForge 14/CommerceForge/bin/Debug/net9.0/CommerceForge.runtimeconfig.json
+/Users/nataliiaoreshkina/Downloads/CommerceForge 14/CommerceForge/bin/Debug/net9.0/CommerceForge.dll
+/Users/nataliiaoreshkina/Downloads/CommerceForge 14/CommerceForge/bin/Debug/net9.0/CommerceForge.pdb
+/Users/nataliiaoreshkina/Downloads/CommerceForge 14/CommerceForge/obj/Debug/net9.0/CommerceForge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliiaoreshkina/Downloads/CommerceForge 14/CommerceForge/obj/Debug/net9.0/CommerceForge.AssemblyInfoInputs.cache
+/Users/nataliiaoreshkina/Downloads/CommerceForge 14/CommerceForge/obj/Debug/net9.0/CommerceForge.AssemblyInfo.cs
+/Users/nataliiaoreshkina/Downloads/CommerceForge 14/CommerceForge/obj/Debug/net9.0/CommerceForge.csproj.CoreCompileInputs.cache
+/Users/nataliiaoreshkina/Downloads/CommerceForge 14/CommerceForge/obj/Debug/net9.0/CommerceForge.sourcelink.json
+/Users/nataliiaoreshkina/Downloads/CommerceForge 14/CommerceForge/obj/Debug/net9.0/CommerceForge.dll
+/Users/nataliiaoreshkina/Downloads/CommerceForge 14/CommerceForge/obj/Debug/net9.0/refint/CommerceForge.dll
+/Users/nataliiaoreshkina/Downloads/CommerceForge 14/CommerceForge/obj/Debug/net9.0/CommerceForge.pdb
+/Users/nataliiaoreshkina/Downloads/CommerceForge 14/CommerceForge/obj/Debug/net9.0/CommerceForge.genruntimeconfig.cache
+/Users/nataliiaoreshkina/Downloads/CommerceForge 14/CommerceForge/obj/Debug/net9.0/ref/CommerceForge.dll

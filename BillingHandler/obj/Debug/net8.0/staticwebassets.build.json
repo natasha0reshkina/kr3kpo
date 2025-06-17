@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "z2F+HM6o3TdTQlPEEBJyhqJ5CDpH2x1kAnjgpkMKxCY=",
+  "Source": "BillingHandler",
+  "BasePath": "_content/BillingHandler",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "17ljKlcPsr6+Cy7ifVJG84zBeLfHfStf7U4IBQmMxQU=",
+  "Source": "EdgeGateway",
+  "BasePath": "_content/EdgeGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
